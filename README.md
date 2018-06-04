@@ -7,22 +7,22 @@ AT the Table 1, the 1st column is a type of filter, there are all 6 types of fil
 
 
 
-PEQ   175     1024      60
-PEQ   157      512     200
-PEQ   97       51      800
-PEQ   67       512    1000
-PEQ   55       256    3000
-PEQ   67       256    5000
-PEQ   175      512   10000 
-PEQ   127      180     150
-PEQ   127      180     170
-PEQ   127      180     200
-PEQ   127      180     300
-PEQ   127      180     500
-PEQ   127      180     900
-PEQ   127      180    1100
-PEQ   127      180    1500
-     ( Table 1. Example of the data file )
+     PEQ   175     1024      60
+     PEQ   157      512     200
+     PEQ   97       51      800
+     PEQ   67       512    1000
+     PEQ   55       256    3000
+     PEQ   67       256    5000
+     PEQ   175      512   10000 
+     PEQ   127      180     150
+     PEQ   127      180     170
+     PEQ   127      180     200
+     PEQ   127      180     300
+     PEQ   127      180     500
+     PEQ   127      180     900
+     PEQ   127      180    1100
+     PEQ   127      180    1500
+     ( Example of the data file )
 
 
 The following is the example to show how to execute the simulation fie.
